@@ -8,4 +8,4 @@ Time Converter
 
 Compare distances
 
-[![timeconverter.png](https://i.postimg.cc/qR9ThLds/timeconverter.png)](https://postimg.cc/wycPnDMM)
+[![Compare-Distancesw5.png](https://i.postimg.cc/rFR9N92d/Compare-Distancesw5.png)](https://postimg.cc/SJq8yCsq)
