@@ -14,7 +14,7 @@ Compare distances
 
 Sum Of Pairs
 
-[![Captura-de-pantalla-20230105-131815.png](https://i.postimg.cc/9XBL2qBX/Captura-de-pantalla-20230105-131815.png)](https://postimg.cc/0rbYdj3h)
+[![Sumofpairsw55.png](https://i.postimg.cc/x8KQ3X68/Sumofpairsw55.png)](https://postimg.cc/bSN4zwcf)
 
 Mid Point
 
