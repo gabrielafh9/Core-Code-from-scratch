@@ -19,4 +19,5 @@ Sum Of Pairs
 Mid Point
 
 [![midpoint.png](https://i.postimg.cc/gkfPxq4p/midpoint.png)](https://postimg.cc/JGcFgX9Y)
-[![midpont2.png](https://i.postimg.cc/B6kG2Ts2/midpont2.png)](https://postimg.cc/7G3ckT5L)
+[![midpoint22.png](https://i.postimg.cc/MH2FWdq3/midpoint22.png)](https://postimg.cc/8J4H4dFL)
+
