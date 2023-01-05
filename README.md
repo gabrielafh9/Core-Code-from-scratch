@@ -12,4 +12,6 @@ Compare distances
 
 ## Tuesday
 
+Sum Of Pairs
+
 [![week5.png](https://i.postimg.cc/J7X82fdb/week5.png)](https://postimg.cc/WtsxDHV3)
