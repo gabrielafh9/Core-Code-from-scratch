@@ -21,3 +21,8 @@ Mid Point
 [![midpoint.png](https://i.postimg.cc/gkfPxq4p/midpoint.png)](https://postimg.cc/JGcFgX9Y)
 [![midpoint22.png](https://i.postimg.cc/MH2FWdq3/midpoint22.png)](https://postimg.cc/8J4H4dFL)
 
+## Wednesday
+
+Cashier
+
+[![www555.png](https://i.postimg.cc/sx3dWdQc/www555.png)](https://postimg.cc/hzZ5FY0z)
