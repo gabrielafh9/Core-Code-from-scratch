@@ -35,11 +35,11 @@ Weather Average
 
 ## If
 
+'''
 if (number > 0) {
-
     n = "The number is positive";
-    
 }
+'''
 
 ## While
 
