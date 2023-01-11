@@ -30,3 +30,11 @@ Cashier
 Weather Average
 
 [![Weather-Average.png](https://i.postimg.cc/J0bp8Gp7/Weather-Average.png)](https://postimg.cc/hQtLbPFN)
+
+## Friday
+
+# If
+
+if (number > 0) {
+    n = "The number is positive";
+}
