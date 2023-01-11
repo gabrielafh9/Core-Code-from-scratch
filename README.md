@@ -42,6 +42,7 @@ if (number > 0) {
 ## While
 
 while (y < 10 ) {
+
     x = x + 1  
 }
 
