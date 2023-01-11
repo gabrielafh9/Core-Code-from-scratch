@@ -38,3 +38,12 @@ Weather Average
 if (number > 0) {
     n = "The number is positive";
 }
+
+## While
+
+while (y < 10 ) {
+    x = x + 1  
+}
+
+## For
+
