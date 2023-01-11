@@ -26,3 +26,7 @@ Mid Point
 Cashier
 
 [![www555.png](https://i.postimg.cc/sx3dWdQc/www555.png)](https://postimg.cc/hzZ5FY0z)
+
+Weather Average
+
+[![Weather-Average.png](https://i.postimg.cc/J0bp8Gp7/Weather-Average.png)](https://postimg.cc/hQtLbPFN)
