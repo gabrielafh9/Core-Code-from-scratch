@@ -35,7 +35,7 @@ Weather Average
 
 ## If
 
-```
+``` Javascript
 if (number > 0) {
     n = "The number is positive";
 }
@@ -43,18 +43,20 @@ if (number > 0) {
 
 ## While
 
+``` Javascript
 while (y < 10 ) {
-
     x = x + 1  
 }
+```
+
 
 ## For
 
 A loop that runs from 0 to 9
 
+``` Javascript
 let i;
-
 for (i = 0; i < 10; i++) {
-
      console.log(i);
 }  
+```
