@@ -7,7 +7,7 @@
 
 <h1 align="center"> Week 5 - Pseudocode & Introduction to Javascript</h1>
 
-## Monday
+# Monday
 
 Time Converter
 
@@ -17,7 +17,7 @@ Compare distances
 
 [![comparedistancesw555555555555.png](https://i.postimg.cc/9MhJqzwJ/comparedistancesw555555555555.png)](https://postimg.cc/xk6KwfRz)
 
-## Tuesday
+# Tuesday
 
 Sum Of Pairs
 
@@ -28,7 +28,7 @@ Mid Point
 [![midpoint.png](https://i.postimg.cc/gkfPxq4p/midpoint.png)](https://postimg.cc/JGcFgX9Y)
 [![midpoint22.png](https://i.postimg.cc/MH2FWdq3/midpoint22.png)](https://postimg.cc/8J4H4dFL)
 
-## Wednesday
+# Wednesday
 
 Cashier
 
@@ -38,7 +38,7 @@ Weather Average
 
 [![Weather-Average.png](https://i.postimg.cc/J0bp8Gp7/Weather-Average.png)](https://postimg.cc/hQtLbPFN)
 
-## Friday
+# Friday
 
 ## If
 
