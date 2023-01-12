@@ -188,4 +188,5 @@ function length(kitty) {
 }
 ```
  
-    
+## String: toUpperCase()
+
