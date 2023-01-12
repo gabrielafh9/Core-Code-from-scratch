@@ -169,4 +169,13 @@ function echo(cat) {
 }
 ```
 
+# Thursday
 
+## Strings
+
+Write a function greet having one parameter and returning 'Hello <parameter>!'.
+``` Javascript
+function greet(Gabriela) {
+  return 'Hello' + Gabriela + '!';
+}
+```
