@@ -102,3 +102,8 @@ let x = 'Tic';
 x = 'Tac';
 x = 'Toe';
 ```
+R// The value of x is "toe"
+
+## Assign 
+
+
