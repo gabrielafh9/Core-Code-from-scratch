@@ -179,3 +179,13 @@ function greet(Gabriela) {
   return 'Hello' + Gabriela + '!';
 }
 ```
+## String: length
+    
+Write a function length that takes a string and returns the number of characters of the string.
+``` Javascript
+function length(kitty) {
+  return kitty.length;
+}
+```
+ 
+    
