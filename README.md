@@ -1,5 +1,10 @@
 # Core-Code-from-scratch
 
+- [Week 5](https://github.com/Gabrielafh9/core-code-from-scratch/edit/main/README.md#week5-)
+- [Week 6](#Week-2)
+- [Week 7](#Week-3)
+- [Week 8](#Week-4)
+
 ## Monday
 
 Time Converter
