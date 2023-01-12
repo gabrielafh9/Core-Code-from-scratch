@@ -161,6 +161,8 @@ let x = reply('How do you do?');
 ```
 R// X is the result of the function "reply". x = 'How do you do?'
 
+## Parameters
+Write a function echo that also returns the passed parameter. echo('Greta') should return 'Greta' and echo('CO2') should return 'CO2'
 
 
 
