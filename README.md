@@ -127,7 +127,15 @@ function hello() {
 ```
 
 ## Multiple functions
-
+Define two functions. The first function a should return 'Hello a!' and the second function b should return 'Hello b!'.
+``` Javascript
+function a() {
+  return 'Hello a!';
+}
+function b() {
+  return 'Hello b!';
+}
+```
 
 ## Function Calls
 
