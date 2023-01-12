@@ -69,3 +69,11 @@ for (i = 0; i < 10; i++) {
 
 <h1 align="center"> Week 6 - Javascript</h1>
 
+## Monday
+
+## Variables
+
+``` Javascript
+let firstname = lata
+```
+
