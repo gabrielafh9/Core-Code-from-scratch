@@ -116,4 +116,14 @@ x = z;
 ```
 R// The value of x is "Hardy"
 
+# Wednesday
+
+## Function
+
+``` Javascript
+function hello() {
+  return 'Hello World!';
+}
+```
+
 
