@@ -5,6 +5,8 @@
 - [Week 7](#Week-3)
 - [Week 8](#Week-4)
 
+<h1 align="center"> Week 5 - Pseudocode & Introduction to Javascript</h1>
+
 ## Monday
 
 Time Converter
