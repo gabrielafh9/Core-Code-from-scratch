@@ -77,3 +77,21 @@ for (i = 0; i < 10; i++) {
 let firstname = lata
 ```
 
+## what is x?
+
+Which value does x have after execution of the following code?
+``` Javascript
+let x = 'Geeta';
+```
+R//The value of x is "Geeta"
+
+## Several variables
+
+Declare a variable flower and assign it the value 'rose'. Declare a second variable tree and assign it the value 'maple'.
+
+``` Javascript
+let flower = "rose";
+let tree = "maple";
+``` 
+
+
