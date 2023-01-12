@@ -189,4 +189,5 @@ function length(kitty) {
 ```
  
 ## String: toUpperCase()
+Write a function toCase that takes a string and returns that string in lowercase and uppercase with - as delimiter.
 
