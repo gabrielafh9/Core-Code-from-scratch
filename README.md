@@ -104,6 +104,16 @@ x = 'Toe';
 ```
 R// The value of x is "toe"
 
-## Assign 
+## Assign variables
+
+Which value does x have after execution of the following code?
+``` Javascript
+let x = 'Laurel';
+let y = 'Hardy';
+let z = y;
+y = x;
+x = z;
+```
+R// The value of x is "Hardy"
 
 
