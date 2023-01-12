@@ -150,3 +150,17 @@ function greet() {
 let salutation = greet();
 ```
 
+## What is x? (function version)
+Which value does x have after execution of the following code?
+``` Javascript
+function reply(phrase) {
+  return phrase;
+}
+
+let x = reply('How do you do?');
+```
+R// X is the result of the function "reply". x = 'How do you do?'
+
+
+
+
