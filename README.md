@@ -56,7 +56,6 @@ while (y < 10 ) {
 }
 ```
 
-
 ## For
 
 A loop that runs from 0 to 9
@@ -67,3 +66,6 @@ for (i = 0; i < 10; i++) {
      console.log(i);
 }  
 ```
+
+<h1 align="center"> Week 5 - Javascript</h1>
+
