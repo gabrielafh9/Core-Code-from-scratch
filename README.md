@@ -93,5 +93,12 @@ Declare a variable flower and assign it the value 'rose'. Declare a second varia
 let flower = "rose";
 let tree = "maple";
 ``` 
+## Reassignment
 
+Which value does x have after execution of the following code?
 
+``` Javascript
+let x = 'Tic';
+x = 'Tac';
+x = 'Toe';
+```
