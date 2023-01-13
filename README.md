@@ -195,3 +195,10 @@ function toCase(ORANGE) {
   return ORANGE.toLowerCase() + '-' + ORANGE.toUpperCase();
 }
 ```
+##String: charAt()
+Write a function shortcut that takes two strings and returns the initial letters of theses strings.
+``` Javascript
+function shortcut(flower, garden) {
+  return flower.charAt(0) + garden.charAt(0);
+}
+```
