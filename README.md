@@ -202,3 +202,6 @@ function shortcut(flower, garden) {
   return flower.charAt(0) + garden.charAt(0);
 }
 ```
+
+## String: indexOf()
+Write a function indexOfIgnoreCase taking two strings and determining the first occurrence of the second string in the first string. The function should be case insensitive.
