@@ -212,4 +212,14 @@ function indexOfIgnoreCase(s1, s2) {
   return s1Lower.indexOf(s2Lower);
 }
 ```
+<h1 align="center"> Week 7 - Javascript</h1>
+
+# Monday
+## String: substr()
+Write a function firstWord, taking a string and returning the first word in that string. The first word are all characters up to the first space.
+``` Javascript
+    Function  firstWord(turtle){
+return str.substring(0, str.indexOf(' '));
+}
+```
     
