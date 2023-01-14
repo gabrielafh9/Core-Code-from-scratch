@@ -226,5 +226,8 @@ return str.substring(0, str.indexOf(' '));
 ## String: replace()
 Write a function normalize, that replaces '-' with '/' in a date string.
 ``` Javascript
-
+function normalize(date) {
+  return date.replace(/-/g, '/');
+}
+```
   
