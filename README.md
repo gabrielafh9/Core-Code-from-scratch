@@ -241,12 +241,15 @@ x--;
 R// x = 7
 
 ## Fahrenheit
- ``` Javascript
+``` Javascript
 function toFahrenheit(celsius){
 return 1.8 * celsius + 32;
 }
 ```
 ## Boolean
-    
-    
-    
+``` Javascript   
+function nand(n1, n2) {
+  let and = n1 && n2;
+  return !and;
+}
+```
