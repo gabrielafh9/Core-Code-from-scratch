@@ -239,3 +239,14 @@ x = x * 2;
 x--;
 ```
 R// x = 7
+
+## Fahrenheit
+ ``` Javascript
+function toFahrenheit(celsius){
+return 1.8 * celsius + 32;
+}
+```
+## Boolean
+    
+    
+    
