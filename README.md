@@ -287,3 +287,21 @@ var rooms = {
   },
 };
 ```
+#Wednesday
+Create a function strCount (takes an object as argument) that will count all string values inside an object. For example:
+function strCount(obj){
+
+``` Javascript
+  var count = 0;
+
+  for (var val in obj){
+    if(typeof obj[val] === 'object'){
+     count += strCount(obj[val]);
+    }
+      if (typeof obj[val] === 'string'){
+        count++;
+      }
+  }
+    return count;
+}
+``` 
