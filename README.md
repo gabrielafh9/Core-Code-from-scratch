@@ -287,7 +287,7 @@ var rooms = {
   },
 };
 ```
-#Wednesday
+# Wednesday
 Create a function strCount (takes an object as argument) that will count all string values inside an object. For example:
 function strCount(obj){
 
