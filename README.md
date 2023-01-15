@@ -253,3 +253,10 @@ function nand(n1, n2) {
   return !and;
 }
 ```
+# Tuesday
+## Objects
+``` Javascript
+function animal(obj) {
+return "This " + obj.color + " " + obj.name + " has " + obj.legs + " legs.";
+}
+```
