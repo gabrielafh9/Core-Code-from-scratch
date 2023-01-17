@@ -308,6 +308,7 @@ function strCount(obj){
 ``` 
 ## Extending JavaScript Objects: Get first & Last Array Element
     
+Your task is to extend JavaScript Array object, with methods .first() and .last(), so you can get respectively first or last element of the array.
     
 ``` Javascript
 Array.prototype.first = function() {
