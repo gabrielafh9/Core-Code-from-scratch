@@ -288,6 +288,7 @@ var rooms = {
 };
 ```
 # Wednesday
+## Count strings in objects
 Create a function strCount (takes an object as argument) that will count all string values inside an object. For example:
 function strCount(obj){
 
@@ -305,3 +306,6 @@ function strCount(obj){
     return count;
 }
 ``` 
+## Extending JavaScript Objects: Get first & Last Array Element
+
+
