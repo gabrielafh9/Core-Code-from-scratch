@@ -307,5 +307,14 @@ function strCount(obj){
 }
 ``` 
 ## Extending JavaScript Objects: Get first & Last Array Element
+    
+    
+``` Javascript
+Array.prototype.first = function() {
+  return this[0];
+};
 
-
+Array.prototype.last = function() {
+  return this[this.length-1];
+};
+``` 
