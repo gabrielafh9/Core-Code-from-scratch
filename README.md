@@ -331,3 +331,8 @@ function Ship(draft,crew) {
   }
 }
 ```
+# Thursday
+## Convert a String to a Number!
+    
+    
+    
