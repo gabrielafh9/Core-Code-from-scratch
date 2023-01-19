@@ -320,7 +320,7 @@ Array.prototype.last = function() {
   return this[this.length-1];
 };
 ``` 
-## Object Oriented 
+## Object Oriented Piracy
 ``` Javascript
 function Ship(draft,crew) { 
   this.draft = draft;
