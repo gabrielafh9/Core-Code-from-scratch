@@ -119,6 +119,7 @@ R// The value of x is "Hardy"
 # Wednesday
 
 ## Function
+Define a function hello that returns 'Hello world!'.
 
 ``` Javascript
 function hello() {
