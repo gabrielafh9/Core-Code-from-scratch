@@ -333,6 +333,12 @@ function Ship(draft,crew) {
 ```
 # Thursday
 ## Convert a String to a Number!
-    
-    
+We need a function that can transform a string into a number. What ways of achieving this do you know?
+``` Javascript
+const stringToNumber = function(str){
+  return Number(str);
+}
+```
+## Convert number to reversed array of digits
+Given a random non-negative number, you have to return the digits of this number within an array in reverse order.    
     
