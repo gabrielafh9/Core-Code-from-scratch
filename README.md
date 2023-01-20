@@ -352,3 +352,9 @@ You are given two empty arrays (truthy and falsy) and you have to fill this arra
 const truthy = ['obj1', 'obj2', 'obj3', 'obj4', 'obj5'];
 const falsy = ["", false, undefined, 0, null];
 ```
+## Training JS #4: Basic data types--Array
+I've written five functions. Each function receives a parameter arr which is an array. Complete the functions using arr inside the function bodies.
+``` Javascript
+
+``` 
+
