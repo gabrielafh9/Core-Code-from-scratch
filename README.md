@@ -346,4 +346,9 @@ function digitize (num){
   return String(num).split('').reverse().map(Number);
 }
 ``` 
-
+## Truthy and falsy
+You are given two empty arrays (truthy and falsy) and you have to fill this array with at least 5 elements in each which will evaluate to true or false accordingly.
+``` Javascript
+const truthy = ['obj1', 'obj2', 'obj3', 'obj4', 'obj5'];
+const falsy = ["", false, undefined, 0, null];
+```
