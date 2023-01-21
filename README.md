@@ -380,6 +380,7 @@ function popElement(arr){
 }
 ``` 
 <h1 align="center"> Week 8 - Javascript</h1>
+    
 # Monday
     
 ## Training JS #7: if..else and ternary operator!
