@@ -548,3 +548,25 @@ function order(words){
 }
 ```                                        
   
+## Counting duplicates
+
+ ```
+// Write a function that will return the count of distinct case-insensitive alphabetic characters 
+// and numeric digits that occur more than once in the input string. 
+// The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
+```
+                                     
+``` Javascript
+function duplicateCount(text) {
+  let duplicates = 0;
+  text = text.toLowerCase(); // todo minuscula
+  for (let i = 0; i < text.length; i++) {
+    if (text.indexOf(text[i]) !== text.lastIndexOf(text[i])) {
+      duplicates++;
+      text = text.replace(new RegExp(text[i], 'g'), '');
+      i = i - 1;
+    }
+  }
+  return duplicates;
+}
+```
