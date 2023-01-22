@@ -547,7 +547,9 @@ function order(words){
    }).join(' ');
 }
 ```                                        
-  
+ 
+# Thursday
+                                          
 ## Counting duplicates
 
  ```
@@ -555,7 +557,7 @@ function order(words){
 // and numeric digits that occur more than once in the input string. 
 // The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
 ```
-                                     
+                                          
 ``` Javascript
 function duplicateCount(text) {
   let duplicates = 0;
