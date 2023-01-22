@@ -451,4 +451,10 @@ function calculate(num1, operation, num2) {
 }
 ```
 
+# Tuesday
+
+## Even or odd
+
+Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+
 
