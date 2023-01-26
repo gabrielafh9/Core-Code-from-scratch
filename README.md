@@ -3,7 +3,7 @@
 - [Week 5](https://github.com/Gabrielafh9/core-code-from-scratch/edit/main/README.md#week5-)
 - [Week 6](#Week-2)
 - [Week 7](#Week-3)
-- [Week 8]((https://github.com/Gabrielafh9/core-code-from-scratch/edit/main/README.md#week8-)
+- [Week 8](https://github.com/Gabrielafh9/core-code-from-scratch/edit/main/README.md#week8-)
 
 <h1 align="center"> Week 5 - Pseudocode & Introduction to Javascript</h1>
 
