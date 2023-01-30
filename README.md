@@ -43,8 +43,9 @@ Weather Average
 ## If
 
 ``` Javascript
+var number = 0
 if (number > 0) {
-    number = "The number is positive";
+    console.log("The number is positive");
 }
 ```
 
