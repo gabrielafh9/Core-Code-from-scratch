@@ -44,7 +44,7 @@ Weather Average
 
 ``` Javascript
 if (number > 0) {
-    n = "The number is positive";
+    number = "The number is positive";
 }
 ```
 
@@ -65,9 +65,8 @@ document.write("you are now over 10");
 A loop that runs from 0 to 9
 
 ``` Javascript
-let i;
-for (i = 0; i < 10; i++) {
-     console.log(i);
+for (age = 0; age < 10; age++) {
+     console.log("Your age is less than 10");
 }  
 ```
 
