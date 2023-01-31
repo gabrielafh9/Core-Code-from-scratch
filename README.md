@@ -213,10 +213,10 @@ function shortcut(flower, garden) {
 ## String: indexOf()
 Write a function indexOfIgnoreCase taking two strings and determining the first occurrence of the second string in the first string. The function should be case insensitive.
 ``` Javascript
-function indexOfIgnoreCase(s1, s2) {
-  let s1Lower = s1.toLowerCase();
-  let s2Lower = s2.toLowerCase();
-  return s1Lower.indexOf(s2Lower);
+function indexOfIgnoreCase(verde, morado ) {
+   verde = verde.toLowerCase();
+   morado = morado.toLowerCase();
+  return verde.indexOf(morado);
 }
 ```
 <h1 align="center"> Week 7 - Javascript</h1>
