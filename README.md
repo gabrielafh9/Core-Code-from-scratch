@@ -1,19 +1,12 @@
 # Core-Code-from-scratch
 
-- [Week 5](https://github.com/gabrielafh9/Core-Code-from-scratch/blob/main/README.md)
+- [Week 5](https://github.com/gabrielafh9/Core-Code-from-scratch/blob/main/README.md) :Pseudocode & Introduction to Javascript
 - [Week 6](#Week-6) : JavaScript
-- [Week 7](#Week-7)
-- [Week 8](#Week-8)
+- [Week 7](#Week-7) : JavaScript
+- [Week 8](#Week-8) : JavaScript
 
 
-
-
-
-
-
-
-
-<h1 align="center"> Week 5 - Pseudocode & Introduction to Javascript</h1>
+<h1 align="center"> Week 5 </h1>
 
 # Monday
 Time Converter
@@ -226,7 +219,7 @@ function indexOfIgnoreCase(verde, morado ) {
   return verde.indexOf(morado);
 }
 ```
-<h1 align="center"> Week 7: Javascript</h1>
+<h1 align="center">Week 7</h1> <h1 align="center">JavaScript</h1> 
 
 # Monday
 ## String: substr()
