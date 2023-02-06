@@ -1,7 +1,7 @@
 # Core-Code-from-scratch
 
 - [Week 6 - Javascript](week-6-Javascript)
-- [Week 6](https://github.com/Gabrielafh9/core-code-from-scratch/edit/main/README.md#week6-)
+- [Week 6](https://github.com/Gabrielafh9/core-code-from-scratch/README.md#week6-)
 
 
 
