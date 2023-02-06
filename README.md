@@ -1,6 +1,8 @@
 # Core-Code-from-scratch
 
-- [Week 6 - Javascript](#week-6-Javascript-)
+- [Week 6 - Javascript](#week---6-Javascript-)
+
+
 
 
 
@@ -8,7 +10,6 @@
 <h1 align="center"> Week 5 - Pseudocode & Introduction to Javascript</h1>
 
 # Monday
-
 Time Converter
 
 [![timeconverter.png](https://i.postimg.cc/qR9ThLds/timeconverter.png)](https://postimg.cc/wycPnDMM)
