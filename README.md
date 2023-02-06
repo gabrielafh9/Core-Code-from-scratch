@@ -1,6 +1,6 @@
 # Core-Code-from-scratch
 
-- .[Week 6 - Javascript]
+- .[Week 6 - Javascript].
 
 
 <h1 align="center"> Week 5 - Pseudocode & Introduction to Javascript</h1>
