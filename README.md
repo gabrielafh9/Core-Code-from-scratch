@@ -1,7 +1,7 @@
 # Core-Code-from-scratch
 
-- [Week 6 - Javascript](#week---6-Javascript-)
-- [Week 1](https://github.com/Gabrielafh9/core-code-fundamentals/edit/main/README.md#week1-)
+
+- [Week 6](https://github.com/Gabrielafh9/Core-Code-from-scratch/edit/README.md#week6-)
 
 
 
@@ -76,7 +76,7 @@ for (age = 0; age < 10; age++) {
 }  
 ```
 
-<h1 align="center"> Week 6: Javascript</h1>
+<h1 align="center">Week 6</h1>
 
 # Tuesday
 
