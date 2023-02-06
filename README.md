@@ -1,7 +1,6 @@
 # Core-Code-from-scratch
 
-
-- [Week 6](https://github.com/Gabrielafh9/Core-Code-from-scratch/edit/README.md#week6-)
+- [Week 6](https://github.com/gabrielafh9/Core-Code-from-scratch/blob/main/README.md#week6)
 
 
 
