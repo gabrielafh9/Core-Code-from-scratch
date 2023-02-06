@@ -6,7 +6,7 @@
 - [Week 8](#Week-8) : JavaScript
 
 
-<h1 align="center"> Week 5 </h1>
+<h1 align="center"> Week 5 </h1> <h1 align="center">Pseudocode & Introduction to Javascript</h1> 
 
 # Monday
 Time Converter
@@ -73,7 +73,7 @@ for (age = 0; age < 10; age++) {
 }  
 ```
 
-<h1 align="center">Week 6</h1>
+<h1 align="center">Week 6</h1> <h1 align="center">JavaScript</h1>
 
 # Tuesday
 
@@ -385,7 +385,7 @@ function popElement(arr){
   return arr
 }
 ``` 
-<h1 align="center"> Week 8 - Javascript</h1>
+<h1 align="center">Week 8</h1> <h1 align="center">JavaScript</h1>
     
 # Monday
     
