@@ -2,7 +2,7 @@
 
 - [Week 5](https://github.com/gabrielafh9/Core-Code-from-scratch/blob/main/README.md)
 - [Week 6](#Week-6)
-- [Week 7](#Week-7-:-Javascript-)
+- [Week 7](#Week-7:-Javascript-)
 - [Week 2](#Week-2)
 
 
