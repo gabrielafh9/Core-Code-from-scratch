@@ -678,12 +678,24 @@ function processData(data) {
 ## Stop gninnipS My sdroW!
 
 ``` Javascript
+function spinWords(sentence) {
+  let words = sentence.split(" ");
 
-                                 
-                                  
-                                  
+  for (let i = 0; i < words.length; i++) {
+    if (words[i].length >= 5) {
+      words[i] = words[i].split("").reverse().join("");
+    }
+  }
+  return words.join(" ");
+}
 ``` 
 
+## "this" is an other problem
+
+``` Javascript
+    
+    
+```
 
 
 
