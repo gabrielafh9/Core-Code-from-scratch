@@ -4,6 +4,8 @@
 - [Week 6](#Week-6) : JavaScript
 - [Week 7](#Week-7) : JavaScript
 - [Week 8](#Week-8) : JavaScript
+- [Week 9](#Week-9) : JavaScript
+
 
 
 <h1 align="center"> Week 5 </h1> <h1 align="center">Pseudocode & Introduction to Javascript</h1> 
@@ -645,7 +647,7 @@ function toCamelCase(str){
     
 <h1 align="center">Week 9</h1> <h1 align="center">JavaScript</h1>
 
-#Monday
+# Monday
 
 ## "this" is a problem
     
