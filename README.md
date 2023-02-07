@@ -1,4 +1,4 @@
-# Core-Code-from-scratch
+# core-code-from-scratch-readme
 
 - [Week 5](https://github.com/gabrielafh9/Core-Code-from-scratch/blob/main/README.md): Pseudocode & Introduction to Javascript
 - [Week 6](#Week-6): JavaScript
