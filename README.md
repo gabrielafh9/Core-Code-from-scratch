@@ -6,7 +6,7 @@
 - [Week 8](#Week-8): JavaScript
 - [Week 9](#Week-9): JavaScript
 - [Week 10](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/Week%2010.png)
-- [Week 11](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/Week%2011)
+- [Week 11](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/week%2011%20-%20%20react.png)
 
 
 
