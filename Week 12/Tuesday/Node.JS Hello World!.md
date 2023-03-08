@@ -18,6 +18,12 @@ Time to get our hands a little dirty and build our first Node.JS application.
 
 0. Why do we run the `npm init` command and not `node init` to create a new Node.JS project?
 
+```
+npm init <initializer> can be used to set up a new or existing npm package. 
+initializer in this case is an npm package named create-<initializer>, which will be installed by npx, a
+nd then have its main bin executed -- presumably creating or updating package.
+```
+
 1. When you entered the `npm init` command and answered the questions you saw in the terminal, a new file called `packacke.json` was generated.
 
 - What does this file do?
