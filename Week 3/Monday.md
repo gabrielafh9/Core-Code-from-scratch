@@ -1,6 +1,6 @@
-# 1. Pseudocode
+# Pseudocode
 
-## Simple calculator
+## 1. Simple calculator
 
 ### Description
 
