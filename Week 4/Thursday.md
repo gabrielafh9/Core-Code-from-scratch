@@ -35,5 +35,7 @@ Create a function called ReverseDirectionAndSize that takes some text as a param
 "Text" --> "TXEt"
 ```
 
+### Solution:
+
 [![Captura-de-pantalla-20221226-172615.png](https://i.postimg.cc/xCX36Hwm/Captura-de-pantalla-20221226-172615.png)](https://postimg.cc/TLXbwyY2)
 
