@@ -6,7 +6,7 @@
 - [Week 4](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%204): Pseudocode
 - [Week 5](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%205): Pseudocode & Introduction to Javascript
 - [Week 6](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%206): JavaScript
-- [Week 7](#Week-7): JavaScript
+- [Week 7](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%207): JavaScript
 - [Week 8](#Week-8): JavaScript
 - [Week 9](#Week-9): JavaScript
 - [Week 10](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/Week%2010.png): JavaScript
@@ -14,7 +14,6 @@
 
 
 
-<h1 align="center">Week 7</h1> <h1 align="center">JavaScript</h1> 
 
 # Monday
 ## String: substr()
