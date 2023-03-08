@@ -1,4 +1,4 @@
-## Objects
+## 1. Objects
 
 Give you a function ```animal```, accept 1 parameter: ```obj``` like this:
 ```
@@ -16,7 +16,7 @@ function animal(obj) {
 return "This " + obj.color + " " + obj.name + " has " + obj.legs + " legs.";
 }
 ```
-## Return to sanity
+## 2. Return to sanity
 This function should return an object, but it's not doing what's intended. What's wrong?
 
 ### Solution:
@@ -28,7 +28,7 @@ function mystery() {
 }
 ```
 
-## Object syntax debug
+## 3. Object syntax debug
 
 While making a zork-type game, you create an object of rooms. Unfortunately, the game is not working. Find all of the errors in the rooms object to get your game working again.
 
