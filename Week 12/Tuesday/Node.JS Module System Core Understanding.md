@@ -10,14 +10,16 @@ The Module System.
 1. What is a Javascript Module?
 ```
 Un módulo en JavaScript no es más que un archivo que contiene código relacionado. En JavaScript, 
-utilizamos las palabras clave import y export para compartir y recibir funcionalidades respectivamente a través de diferentes módulos. 
-La palabra clave export se utiliza para hacer una variable, función, clase u objeto accesible a otros módulos.
+utilizamos las palabras clave import y export para compartir y recibir funcionalidades respectivamente a través de 
+diferentes módulos. La palabra clave export se utiliza para hacer una variable, función, clase u objeto accesible
+a otros módulos.
 ```
 
 2. Why are Javascript Modules necessary?
 ```
-Los módulos JavaScript permiten dividir el código en archivos independientes. Esto facilita el mantenimiento de una base de código. 
-Los módulos se importan desde archivos externos con la sentencia import. Los módulos también se basan en type="module" en la etiqueta <script>.
+Los módulos JavaScript permiten dividir el código en archivos independientes. Esto facilita el mantenimiento 
+de una base de código. Los módulos se importan desde archivos externos con la sentencia import. 
+Los módulos también se basan en type="module" en la etiqueta <script>.
 ```
 
 3. What module standards are available in Node.JS?
@@ -25,9 +27,9 @@ Los módulos se importan desde archivos externos con la sentencia import. Los m�
 
 4. What are the differences between ESModules and CommonJS modules?
 ```
-CommonJS modules are a popular way to modularize JavaScript code. They allow you to export and import modules using the export and import keywords,
-respectively. ES Modules are a newer way to modularize JavaScript code. Unlike CommonJS modules, which rely on exports and imports, 
-ES Modules use the module keyword.
+CommonJS modules are a popular way to modularize JavaScript code. They allow you to export and import modules using 
+the export and import keywords, respectively. ES Modules are a newer way to modularize JavaScript code. 
+Unlike CommonJS modules, which rely on exports and imports, ES Modules use the module keyword.
 ```
 
 5. Which types of modules exist in Node.JS?
