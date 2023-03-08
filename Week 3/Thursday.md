@@ -24,4 +24,4 @@ For this challenge, you need to create a program that prints a greeting based on
 - Ask the user if he wants to perform another greeting. If the answer is Si, the program must start again.
 - At the end of the program, print out the number of times the program has greeted.
 
-[![Greetings1.png](https://i.postimg.cc/jjJWM8qx/Greetings1.png)](https://postimg.cc/bGpNJ92W)
+[![Greetings1.png](https://i.postimg.cc/y6TQRQwd/Greetings1.png)](https://postimg.cc/8sjmQHkQ)
