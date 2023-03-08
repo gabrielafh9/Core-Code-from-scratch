@@ -1,8 +1,8 @@
 # core-code-from-scratch-readme
 
 - [Week 1](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/week%201): Algorithms
-- [Week 2](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%202): Algorithms
-- [Week 3](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%203): Algorithms
+- [Week 2](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%202): Pseudocode
+- [Week 3](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%203): Pseudocode
 - [Week 5](https://github.com/gabrielafh9/Core-Code-from-scratch/blob/main/README.md): Pseudocode & Introduction to Javascript
 - [Week 6](#Week-6): JavaScript
 - [Week 7](#Week-7): JavaScript
