@@ -1,4 +1,4 @@
-# Pseudocode
+# 1. Pseudocode
 
 ## Simple calculator
 
@@ -23,7 +23,7 @@ the result of operating 10 * 15 is 150, so the program should return: ```Resulta
 
 [![simple-calculator.png](https://i.postimg.cc/kXh2NrN6/simple-calculator.png)](https://postimg.cc/qzyB0554)
 
-## Special number
+## 2. Special number
 
 ### Description
 
