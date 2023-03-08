@@ -1,6 +1,6 @@
 # Pseudocode
 
-## Simple Calculator with Switch
+## 1. Simple Calculator with Switch
 
 ### Description
 
@@ -24,7 +24,7 @@ Remember to use Switch (Segun) to identify which operations you should execute.
 
 [![Calculador-Switch.png](https://i.postimg.cc/SQg6Pv7q/Calculador-Switch.png)](https://postimg.cc/ThW5LQ4H)
 
-## Multi Option Program
+## 2. Multi Option Program
 
 ### Description
 
