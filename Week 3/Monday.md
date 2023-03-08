@@ -51,6 +51,7 @@ Algoritmo specialNumber
 FinAlgoritmo
 ```
 
+### Solution:
 
 [![Special-number.png](https://i.postimg.cc/tgGCD9sT/Special-number.png)](https://postimg.cc/SnVhxF7F)
 
