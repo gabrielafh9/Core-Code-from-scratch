@@ -1,4 +1,4 @@
-## Distance to zero
+# 1. Distance to zero
 
 Make a program that asks for 5 values ​​and also allows us to know which one is furthest from zero, once obtained it returns that number (the numbers can be negative), showing only the integer part of the number.
 
@@ -6,7 +6,7 @@ Make a program that asks for 5 values ​​and also allows us to know which one
 
 [![Distancetozerow4.png](https://i.postimg.cc/sfJJTpTQ/Distancetozerow4.png)](https://postimg.cc/rzKWmtXM)
 
-## Toss Coin
+# 2. Toss Coin
 
 From the data we receive first a name and a value, then another name and another value, using the built-in function aleatorio() 
 we simulate the flip of a coin, We must return the name of the winner in capital letters and the value I win, to avoid cheating, 
