@@ -2,7 +2,26 @@
 
 Create a function called TotalPrice that takes 2 parameters, price and VAT, and returns the price including VAT. if the price exceeds 3000 a 10 percent discount is made on the total price.
 
-[![Captura-de-pantalla-20221226-155903.png](https://i.postimg.cc/L6KB9dMr/Captura-de-pantalla-20221226-155903.png)](https://postimg.cc/dD6T6x3B)
+### Solution:
+
+``` Javascript
+Funcion money <- totalPrice (price, iva)
+	Definir money Como Real
+	ValueTotalPrice = price + ((price * iva) / 100)
+	
+	Si price > 3000 Entonces
+		money = ValueTotalPrice - (ValueTotalPrice * 0.10)
+		Imprimir "El descuento de" ValueTotalPrice "es" money
+	SiNo
+		money = ValueTotalPrice
+	FinSi
+FinFuncion
+
+Algoritmo functionTotalPrice
+	 Imprimir totalPrice(5000, 21)
+FinAlgoritmo
+```
+
 
 ## Reverse direction and size
 
