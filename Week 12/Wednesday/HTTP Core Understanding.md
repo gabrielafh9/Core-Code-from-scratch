@@ -43,4 +43,13 @@ Please answer the following questions with your own words:
 
 #### 5. What is an HTTP method?
 
+     HTTP methods, also known as HTTP verbs, refer to the different functions used to manipulate the data of a given resource. 
+     The primary HTTP methods are GET, POST, PUT, DELETE, and PATCH. Additional methods, such as HEAD and OPTIONS, 
+     are also supported in some servers.
+
 #### 6. What are HTTP request headers?
+     
+     HTTP request headers are name/value pairs that are sent from a client to a web server, providing additional information 
+     about the request. These headers provide information such as the type of browser making the request, 
+     the language of the browser, and the type of content the client is expecting from the server.
+
