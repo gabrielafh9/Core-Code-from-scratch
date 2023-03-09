@@ -11,4 +11,12 @@ Please complete the following exercises:
 2. Watch [this](https://www.youtube.com/watch?v=VywxIQ2ZXw4) course about how to use Postman to interact with APIs
 3. Answer the questions:
    - Postman only works with REST APIs?
+      
+      No. Postman can be used to test a wide variety of applications, including GIS and GraphQL APIs. 
+      Additionally, Postman has powerful programming capabilities and can be used to perform many tasks, 
+      such as unit testing and integration testing.
+      
    - Is there an alternative to Postman?
+
+       Yes, there are a number of alternatives to Postman including Insomnia, Advanced Rest Client, Paw, SoapUI, Apache JMeter, and Curl.
+
