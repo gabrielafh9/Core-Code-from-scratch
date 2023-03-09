@@ -48,4 +48,16 @@ Please answer the following questions with your own words:
    
 #### 5. Is an API just another program or a standard?
 
+       An API is an application programming interface, which is a set of protocols, tools, and routines for building software 
+       applications. It is not a program or a standard, but rather a set of rules used to access a specific program or service.
+
 #### 6. Do you know any API? Can you list at least 5 examples of APIs?
+       
+       1. Google Maps API: enables developers to leverage Google's mapping and routing capabilities to build custom applications.
+       2. Twitter API: allows developers to access and integrate Twitter's features and functions into their own applications.
+       3. Stripe API: enables developers to accept and manage payments online, in mobile apps and in-store.
+       4. Salesforce API: enables developers to access the cloud-based customer relationship management (CRM) 
+          platform to build applications and services.
+       5. Instagram API: enables developers to access and integrate Instagram content into their own applications.
+
+       
