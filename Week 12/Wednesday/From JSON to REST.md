@@ -49,7 +49,27 @@ Please answer the following questions with your own words:
 
    
 #### 4. How are HTTP and REST related?
-   - What HTTP methods does REST use within its architecture rules?
-   - Why do we use HTTP methods in REST and how do they relate to resources?
+
+     HTTP and REST are closely related as REST is an architectural style for building distributed systems using web technology 
+     and the HTTP protocol, which is the fundamental protocol used in the World Wide Web. HTTP is the transfer protocol used
+     in REST and an integral part of the architecture.
+
+
+       - What HTTP methods does REST use within its architecture rules?
+      
+         REST generally uses the HTTP methods GET, PUT, POST, PATCH, and DELETE.
+
+       - Why do we use HTTP methods in REST and how do they relate to resources?
+         
+         HTTP methods are used in REST to interact with a resource through its representations. These methods indicate to the
+         server what type of action the client wishes to perform against the resource. For example, a GET request retrieves a
+         representation of the resource, a POST request creates a new resource, a PUT updates the representation of the resource 
+         and a DELETE request deletes the resource.
+
    
 #### 5. Is REST the same as HTTP?
+
+        No, REST (Representational State Transfer) is not the same as HTTP (HyperText Transfer Protocol). REST is an architectural
+        style for making requests over HTTP, which defines how resources are accessed. HTTP is a protocol that controls how data is 
+        transmitted between a client and a server.
+
