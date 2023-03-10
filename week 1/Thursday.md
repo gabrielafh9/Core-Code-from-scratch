@@ -6,6 +6,8 @@
 
 Design an algorithm to check if a number is even or odd. If it is even, write that it is even, otherwise write that it is odd. Represent the algorithm in a flowchart.
 
+#### Solution:
+
 1. Inicio
 2. Tomar variable entera A 
 3. Asignar valor a la variable A
@@ -18,6 +20,8 @@ Design an algorithm to check if a number is even or odd. If it is even, write th
 
 ### Description 
 Write pseudocode for an algorithm that calculates the age of a person based on date of birth
+
+#### Solution:
 
 1. Inicio
 2. Requerir fecha de nacimiento
@@ -39,7 +43,7 @@ Right chest: Only one of these chests has treasures.
 
 Which chests have treasures?
 
-### Solution:
+#### Solution:
 
 - Cofre 1: 
   "El cofre de en medio tiene el tesoro" sin embargo, como es mentira el cofre 2 no tiene tesoro.
