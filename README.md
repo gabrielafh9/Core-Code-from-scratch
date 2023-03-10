@@ -10,7 +10,7 @@
 - [Week 8](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%208): JavaScript
 - [Week 9](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%209): JavaScript
 - [Week 10](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%2010): JavaScript
-- [Week 11](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/week%2011%20-%20%20react.png): React
+- [Week 11](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%2011): React
 - [Week 12](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%2012): Node.JS
 
     
