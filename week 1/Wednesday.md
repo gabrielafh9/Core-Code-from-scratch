@@ -2,10 +2,12 @@
 
 # Let's make pizza 🍕
 
-### Description
+## Description
 Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
 
-## Preparar la base de la pizza
+### Solution:
+
+#### Preparar la base de la pizza
 Los ingredientes para la base de la pizza son: 
 - harina, levadura y agua
 
@@ -21,10 +23,12 @@ Los ingredientes para la base de la pizza son:
 
 # Hot N Cold 🤒 🧊 🔥
 
-### Description
+## Description
 Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa.
 
-## Fahrenheit to Celsius Conversion
+### Solution:
+
+#### Fahrenheit to Celsius Conversion
  
 1. Inicio
 2. Pedir temperaturas a convertir y asignar nombre T
@@ -48,8 +52,10 @@ Fin
 
 # Some geometry 📐
 
-### Description
+## Description
 Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
+
+#### Solution:
 
 1. Inicio
 2. Imprimir en la pantalla las opciones "1 Pirámide 2 Cubo 3 Esfera"
