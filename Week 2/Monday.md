@@ -2,7 +2,7 @@
 
 ## Logic problem
 
-### Description 
+#### Description 
 
 The teacher asks his 5 students if they studied mathematics yesterday.
 
@@ -14,7 +14,7 @@ Eva: "4 people studied mathematics yesterday".
 
 The teacher knows that only those who studied would be telling the truth and those who didn't would be lying. Who is telling the truth?
 
-### Solution:
+#### Solution:
 
 ```
 Alice says nobody studied math yesterday. It makes no sense because she won't accept that she has not studied.
@@ -29,10 +29,10 @@ Therefore, Bob is telling the truth because he's not contradicting anyone and he
 
 ## Which comes first, cereal or milk?
 
-### Description
+#### Description
 Create an algorithm to prepare a bowl of cereal with milk. Represent the result in pseudocode and in a flowchart.
 
-## Cereal vs milk
+#### Cereal vs milk
 
 Cereal vs milk
 
