@@ -12,7 +12,9 @@ Time to put into practice what you learned about Node.JS modules 😁.
 5. Import the functions implemented in `operations.js` and use them in any
    way in `main.js`.
 
-# package.json
+# Solution:
+
+## package.json
  
 ``` Javascript
   {
@@ -28,7 +30,7 @@ Time to put into practice what you learned about Node.JS modules 😁.
 }
 ```
   
-# Operations.js
+## Operations.js
 
 ``` Javascript
 function sum(num1, num2) {
@@ -42,7 +44,7 @@ function subs(num1, num2) {
 module.exports = { sum, subs };
 ```
 
-# main.js
+## main.js
 
 ``` Javascript
 const { sum, subs } = require("./operations");
