@@ -2,7 +2,7 @@
 
 ## Week challenges 
 
-### [Monday](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/Week%208/Monday.md)
+## [Monday](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/Week%208/Monday.md)
 
 1. Training JS #7: if..else and ternary operator
 2. Training JS #8: conditional statement--switch
