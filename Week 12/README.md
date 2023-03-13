@@ -17,3 +17,9 @@ Learn about Node.JS and its capabilities
 2. [APIs Core Understanding](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/Week%2012/Wednesday/APIs%20Core%20Understanding.md) Learning Exercise 🧠
 3. [From JSON to REST](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/Week%2012/Wednesday/From%20JSON%20to%20REST.md) Learning Exercise 🧠
 4. [REST API Clients](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/Week%2012/Wednesday/REST%20API%20Clients.md) Learning Exercise 🧠
+
+## Thursday 💻🐔
+
+0. [Express.JS Core Understanding](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/Week%2012/Thursday/Express.JS%20Core%20Understanding.md) Learning Exercise 🧠
+1. Forrest Gump Ping-Pong API 🏓 Practice 💻
+2. Delayed Response API ⏳ Practice 💻
