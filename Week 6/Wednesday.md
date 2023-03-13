@@ -1,4 +1,4 @@
-## Function
+## 1. Function
 Define a function hello that returns 'Hello world!'.
 
 ``` Javascript
@@ -7,7 +7,7 @@ function hello() {
 }
 ```
 
-## Multiple functions
+## 2. Multiple functions
 Define two functions. The first function a should return 'Hello a!' and the second function b should return 'Hello b!'.
 ``` Javascript
 function a() {
@@ -17,7 +17,7 @@ function b() {
   return 'Hello b!';
 }
 ```
-## Function Calls
+## 3.Function Calls
 
 1. Define a function greet returning the value 'Haydo!'.
 2. Declare a variable salutation. Call the function greet and assign the result of the call to the variable salutation.
@@ -30,7 +30,7 @@ function greet() {
 let salutation = greet();
 ```
 
-## What is x? (function version)
+## 4. What is x? (function version)
 Which value does x have after execution of the following code?
 ``` Javascript
 function reply(phrase) {
@@ -41,7 +41,7 @@ let x = reply('How do you do?');
 ```
 R// X is the result of the function "reply". x = 'How do you do?'
 
-## Parameters
+## 5. Parameters
 Write a function echo that also returns the passed parameter. 
 ``` Javascript
 function echo(cat) {
