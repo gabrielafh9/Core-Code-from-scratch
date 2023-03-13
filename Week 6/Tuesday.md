@@ -1,4 +1,4 @@
-## Variables
+## 1. Variables
 
 Declare a variable 'firstname' and initialize it with the value 'Lata'.
 
@@ -6,7 +6,7 @@ Declare a variable 'firstname' and initialize it with the value 'Lata'.
 let firstname = lata
 ```
 
-## what is x?
+## 2. what is x?
 
 Which value does x have after execution of the following code?
 ``` Javascript
@@ -14,7 +14,7 @@ let x = 'Geeta';
 ```
 R//The value of x is "Geeta"
 
-## Several variables
+## 3. Several variables
 
 Declare a variable flower and assign it the value 'rose'. Declare a second variable tree and assign it the value 'maple'.
 
@@ -23,7 +23,7 @@ let flower = "rose";
 let tree = "maple";
 ``` 
 
-## Reassignment
+## 4. Reassignment
 
 Which value does x have after execution of the following code?
 
@@ -34,7 +34,7 @@ x = 'Toe';
 ```
 R// The value of x is "toe"
 
-## Assign variables
+## 5. Assign variables
 
 Which value does x have after execution of the following code?
 ``` Javascript
