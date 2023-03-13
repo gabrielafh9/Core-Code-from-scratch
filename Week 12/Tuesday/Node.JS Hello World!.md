@@ -27,7 +27,17 @@ nd then have its main bin executed -- presumably creating or updating package.
 1. When you entered the `npm init` command and answered the questions you saw in the terminal, a new file called `packacke.json` was generated.
 
 - What does this file do?
+
+```
+The package.json file provides information such as the name of the project, the version number, a description of the project, the author, and the license. Additionally, it lists all the dependencies that the project needs to run. These dependencies are installed automatically when the project is initialized, using the npm install command. Also, is essential in Node.js development because it makes it easy to manage the project's dependencies and scripts.
+```
+
 - Why is this file generated?
+
+```
+The package.json file is generated to manage the dependencies and configuration of a Node.js project. It is automatically created when a new project is initialized using the npm init command.
+
+```
 
 
 [![lunes-node-js.png](https://i.postimg.cc/8cG8fL5R/lunes-node-js.png)](https://postimg.cc/34tfP42N)
