@@ -1,5 +1,17 @@
 # 1. Easy mathematical callback
 
+Write the processArray function, which takes an array and a callback function as parameters. 
+The callback function can be, for example, a mathematical function that will be applied on each 
+element of this array. Optionally, also write tests similar to the examples below.
+
+### Solution:
+
+```Javascript
+function processArray(arr, callback) {
+  return arr.map(callback);
+}
+```
+
 # 2. Moving Zeros To The End
 
 Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
