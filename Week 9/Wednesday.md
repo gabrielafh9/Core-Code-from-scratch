@@ -11,12 +11,15 @@ moveZeros([false,1,0,1,2,0,1,3,"a"]) // returns[false,1,1,2,1,3,"a",0,0]
 ### Solution:
 
 ```Javascript
-var moveZeros = function (arr) {
-  for(var i = arr.length; i--;) {
-    if(arr[i]===0) {
-      arr.splice(i, 1);
-      arr.push(0);
-    }
-  } return arr;
+function moveZeros(arr) {
+  let count = 0;
+  arr.forEach(element => {
+    return element === 0 ? count++ : count;
+  });
+  let aux = arr.filter(item => item !== 0);
+  for (let i = 0; i < count; i++) {
+    aux.push(0);
+  }
+  return aux;
 }
 ```
