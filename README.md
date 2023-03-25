@@ -12,6 +12,6 @@
 - [Week 10](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%2010): JavaScript
 - [Week 11](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%2011): React
 - [Week 12](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/Week%2012): Node.JS
-- [To-do list Project](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/To%20do%20list%20project)
+- [To-do list Project](https://github.com/gabrielafh9/core-code-from-scratch-readme/tree/main/To-do%20list%20Project)
 
     
