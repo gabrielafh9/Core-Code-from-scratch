@@ -29,4 +29,4 @@
 
 #
 
-![Image text](https://github.com/gabrielafh9/core-code-from-scratch-readme/blob/main/To-do%20list%20Project/to%20do%20list.png)
+![Image text]()
